@@ -1,4 +1,4 @@
-# Exemplo de Publicador e Assinante em ROS2 com Python
+# Exemplo de Publicador e Assinante em ROS2 com Python 🤖
 
 Este repositório contém um exemplo simples de comunicação em ROS2, implementando um sistema com dois nós em Python:
 
