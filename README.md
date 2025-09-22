@@ -5,7 +5,6 @@ Este repositório contém um exemplo simples de comunicação em ROS2, implement
 1.  **`talker` (O Falante):** Um nó que publica uma mensagem de texto simples para um tópico a cada segundo. A mensagem contém um contador que incrementa a cada envio (ex: "Olá, mundo! O contador é: 1").
 2.  **`listener` (O Ouvinte):** Um nó que se inscreve no mesmo tópico para receber as mensagens enviadas pelo `talker` e as imprime no console assim que chegam.
 
-Este projeto é ideal para iniciantes que estão aprendendo os conceitos fundamentais de publicadores, assinantes e nós em ROS2.
 
 ## Pré-requisitos
 
@@ -48,10 +47,8 @@ cd ~/ros2_ws/src
 Dentro da pasta `src`, clone este repositório:
 
 ```bash
-git clone <URL_DO_SEU_REPOSITORIO> py_pubsub
+git clone <https://github.com/diegodemiranda/edrom-ros2-chatter_package> py_pubsub
 ```
-
-Se preferir criar os arquivos manualmente, siga para a seção "Código Fonte".
 
 ### 3. Construa o Pacote
 
