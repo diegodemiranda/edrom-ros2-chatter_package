@@ -47,7 +47,7 @@ cd ~/ros2_ws/src
 Dentro da pasta `src`, clone este repositório:
 
 ```bash
-git clone <https://github.com/diegodemiranda/edrom-ros2-chatter_package> py_pubsub
+git clone <https://github.com/diegodemiranda/edrom-ros2-chatter_package.git> py_pubsub
 ```
 
 ### 3. Construa o Pacote
